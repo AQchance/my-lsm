@@ -1,0 +1,15 @@
+.vscode
+.xmake
+build
+sdk/tinylsm/dist
+sdk/tinylsm/build
+sdk/tinylsm/tinylsm/core/lib
+sdk/tinylsm/tinylsm.egg-info
+*__pycache__*
+book
+coverage*
+.clangd
+*.log*
+sst_html
+.cache
+compile_commands.json
